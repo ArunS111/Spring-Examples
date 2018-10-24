@@ -1,0 +1,8 @@
+com\sample\dao\UserMapper.class
+com\sample\dao\UserDao.class
+com\sample\controller\RegistrationController.class
+com\sample\model\User.class
+com\sample\service\UserService.class
+com\sample\dao\UserDaoImpl.class
+com\sample\model\Login.class
+com\sample\controller\LoginController.class
